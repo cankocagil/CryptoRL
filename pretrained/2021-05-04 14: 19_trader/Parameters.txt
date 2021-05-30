@@ -1,0 +1,10 @@
+training start: 2021-05-04 14:19
+initial_balance: 10000
+training episodes: 500000
+lookback_window_size: 360
+lr: 0.0001
+epochs: 5
+batch size: 32
+normalize : True
+model: Dense
+reward strategy: base

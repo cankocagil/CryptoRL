@@ -1,0 +1,10 @@
+training start: 2021-05-24 09:37
+initial_balance: 10000
+training episodes: 40000
+lookback_window_size: 200
+lr: 1e-05
+epochs: 5
+batch size: 32
+normalize : False
+model: LSTM
+reward strategy: base
